@@ -2,6 +2,6 @@
 
 # git clone https://github.com/Ag3ntQ/HashPy.git
 
-cd HashPy
+# cd HashPy
 
-python hash.py
+# python hash.py
