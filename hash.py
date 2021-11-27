@@ -9,7 +9,7 @@ W = "\033[0m"     # White
 R = "\033[31m"    #Red
 
 pr= which("figlet")
-print(pr)
+
 if pr== None:
 	print(f'{R} [~] figlet is not Installed!{W}')
 	time.sleep(2)
