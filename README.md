@@ -1,7 +1,10 @@
 # HashPy
+![CHEESE!](img.jpg)
 
-# git clone https://github.com/Ag3ntQ/HashPy.git
+#Usage
 
-# cd HashPy
+git clone https://github.com/Ag3ntQ/HashPy.git
 
-# python hash.py
+cd HashPy
+
+python hash.py
